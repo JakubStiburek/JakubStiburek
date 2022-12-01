@@ -9,6 +9,8 @@ I'm Jakub and I'm a software engineer based in Czechia.
 
 You can reach me on my email: alcolp96@gmail.com, or on [LinkedIn](https://www.linkedin.com/in/jakubstiburekdev/)
 
+[My blog](https://jakubstiburek.notion.site/jakubstiburek/Hi-there-c57e50c1269246be817aa04a0a668e9e)
+
 <!--
 **JakubStiburek/JakubStiburek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
