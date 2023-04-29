@@ -7,7 +7,7 @@ I'm Jakub and I'm a software engineer based in Czechia.
 - I currently learn Rust to expand my knowledge to systems programming
 - And I feel like WASM is gonna be a big one, so I want to be prepared
 
-You can reach me on my email: alcolp96@gmail.com, or on [LinkedIn](https://www.linkedin.com/in/jakubstiburekdev/)
+You can reach me on my email: jakub@stiburek.dev, or on [LinkedIn](https://www.linkedin.com/in/jakubstiburekdev/)
 
 [My blog](https://jakubstiburek.notion.site/jakubstiburek/Hi-there-c57e50c1269246be817aa04a0a668e9e)
 
