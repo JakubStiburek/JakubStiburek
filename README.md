@@ -6,12 +6,12 @@ I'm Jakub and I'm a software engineer based in Czechia.
 - Big fan of functional programming 
 - Proud #Rustacean 🦀
 
+You can reach me on my email: jakub@stiburek.dev, or on [LinkedIn](https://www.linkedin.com/in/jakubstiburekdev/)
+
 ## Noteworthy projects
 - [csv-sql](https://github.com/JakubStiburek/csv-sql)
 - [rat](https://github.com/JakubStiburek/rat)
 - [predict](https://github.com/JakubStiburek/predict)
-
-You can reach me on my email: jakub@stiburek.dev, or on [LinkedIn](https://www.linkedin.com/in/jakubstiburekdev/)
 
 Have a read: [My blog](https://jakubstiburek.notion.site/jakubstiburek/Hi-there-c57e50c1269246be817aa04a0a668e9e)
 
