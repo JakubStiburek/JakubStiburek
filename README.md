@@ -12,6 +12,8 @@ You can reach me on my email: jakub@stiburek.dev, or on [LinkedIn](https://www.l
 - [csv-sql](https://github.com/JakubStiburek/csv-sql)
 - [rat](https://github.com/JakubStiburek/rat)
 - [predict](https://github.com/JakubStiburek/predict)
+- [validat-class-properties](https://github.com/JakubStiburek/validate-class-properties)
+- [ccwc](https://github.com/JakubStiburek/ccwc)
 
 Have a read: [My blog](https://jakubstiburek.notion.site/jakubstiburek/Hi-there-c57e50c1269246be817aa04a0a668e9e)
 
