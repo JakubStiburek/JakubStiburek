@@ -2,7 +2,7 @@
 I'm Jakub and I'm a software engineer based in Czechia.
 
 - Working mostly with Node.js and TypeScript on BE
-- And React, Svelte or Angular with TypeScript on FE
+- And React with TypeScript on FE
 - Big fan of functional programming 
 - Proud #Rustacean 🦀
 
